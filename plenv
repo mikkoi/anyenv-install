@@ -2,3 +2,4 @@ install_env https://github.com/tokuhirom/plenv.git
 install_plugin perl-build https://github.com/tokuhirom/Perl-Build.git
 install_plugin plenv-man https://github.com/mikkoi/plenv-man main
 install_plugin plenv-libdirs https://github.com/mikkoi/plenv-libdirs main
+install_plugin plenv-contrib https://github.com/miyagawa/plenv-contrib
