@@ -1,0 +1,2 @@
+install_plugin anyenv-git https://github.com/znz/anyenv-git.git master
+install_plugin anyenv-update https://github.com/znz/anyenv-update.git master
